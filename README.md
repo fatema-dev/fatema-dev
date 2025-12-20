@@ -1,16 +1,16 @@
-## Hi there 👋
+**Hey There!** 👋
 
-<!--
-**fatema-dev/fatema-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Fatema Althawadi, a Computer Science student in Bahrain, currently focusing on full-stack development.  
 
-Here are some ideas to get you started:
+I build whatever comes to mind, experimenting and learning along the way.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m strengthening my fundamentals in **DSA, clean code, and systems thinking** while building web applications with **JavaScript**.
+
+My tech stack includes **JavaScript (learning), Java, C**, with frontend skills in **HTML, CSS, and DOM**.  
+
+I aim to secure a **Frontend / Full-Stack Internship** and build strong software engineering foundations before specializing.
+
+#### Fun Facts About Me: 
+- I love pianos
+- I dislike coffee
+- My favorite author is Agatha Christie
