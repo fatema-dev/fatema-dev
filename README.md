@@ -12,5 +12,5 @@ I aim to secure a **Frontend / Full-Stack Internship** and build strong software
 
 #### Fun Facts About Me: 
 - I love pianos
-- I dislike coffee
+- I don't like coffee
 - My favorite author is Agatha Christie
