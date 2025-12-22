@@ -8,7 +8,7 @@ I’m strengthening my fundamentals in **DSA, clean code, and systems thinking**
 
 My tech stack includes **JavaScript (learning), Java, C**, with frontend skills in **HTML, CSS, and DOM**.  
 
-I aim to secure a **Frontend / Full-Stack Internship** and build strong software engineering foundations before specializing.
+I aim to secure a **Full-Stack Internship** and build strong software engineering foundations before specializing.
 
 #### Fun Facts About Me: 
 - I love pianos
