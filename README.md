@@ -1,16 +1,36 @@
-**Hey There!** 👋
+# Hey there! I'm Fatema 👋
 
-I’m Fatema Althawadi, a Computer Science student in Bahrain, currently focusing on full-stack development.  
+Computer Science student building toward backend development, with a growing focus on research-driven and large-scale engineering opportunities. I care about writing clean, well-tested code and understanding *why* something works, not just getting it to run.
 
-I build whatever comes to mind, experimenting and learning along the way.  
+## 🔭 Currently
 
-I’m strengthening my fundamentals in **DSA, clean code, and systems thinking** while building web applications with **JavaScript**.
+- Building backend systems with **Java** and **Spring Boot** — REST APIs, layered architecture, persistence with JPA
+- Practicing data structures & algorithms consistently, tracked in [`dsa-practice`](https://github.com/fatema-dev/dsa-practice)
+- Exploring the intersection of **software engineering and finance**, drawing on a background in equity research and market analysis
+- Open to backend, full-stack, and research-oriented internship opportunities
 
-My tech stack includes **JavaScript (learning), Java, C**, with frontend skills in **HTML, CSS, and DOM**.  
+## 🛠️ Tech Stack
 
-I aim to build strong software engineering foundations before specializing.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### Fun Facts About Me: 
-- I love pianos
-- I don't like coffee
-- My favorite author is Agatha Christie
+## 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🧩 [Task Manager API](https://github.com/fatema-dev/task-manager-api) | RESTful task management API — Spring Boot, Spring Data JPA, layered architecture |
+| 🧠 [DSA Practice](https://github.com/fatema-dev/dsa-practice) | Ongoing algorithm practice, organized by pattern |
+
+
+## 📫 Connect
+
+- LinkedIn: *www.linkedin.com/in/fatema-althawadi-8a382131a*
+- Email: *fatmalthawadi@gmail.com*
+
+---
+⭐️ Thanks for stopping by, check out the pinned repos above for what I'm actively building.
