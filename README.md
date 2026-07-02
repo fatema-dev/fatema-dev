@@ -5,7 +5,7 @@ Computer Science student building toward backend development, with a growing foc
 ## 🔭 Currently
 
 - Building backend systems with **Java** and **Spring Boot** — REST APIs, layered architecture, persistence with JPA
-- Practicing data structures & algorithms consistently, tracked in [`dsa-practice`](https://github.com/fatema-dev/dsa-practice)
+- Practicing data structures & algorithms consistently, tracked in [`neetcode-submissions`](https://github.com/fatema-dev/neetcode-submissions)
 - Exploring the intersection of **software engineering and finance**, drawing on a background in equity research and market analysis
 - Open to backend, full-stack, and research-oriented internship opportunities
 
@@ -24,7 +24,7 @@ Computer Science student building toward backend development, with a growing foc
 | Project | Description |
 |---|---|
 | 🧩 [Task Manager API](https://github.com/fatema-dev/task-manager-api) | RESTful task management API — Spring Boot, Spring Data JPA, layered architecture |
-| 🧠 [DSA Practice](https://github.com/fatema-dev/dsa-practice) | Ongoing algorithm practice, organized by pattern |
+| 🧠 [NeetCode Submission](https://github.com/fatema-dev/neetcode-submissions) | Ongoing algorithm practice, organized by pattern |
 
 
 ## 📫 Connect
