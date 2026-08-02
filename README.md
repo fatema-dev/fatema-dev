@@ -24,7 +24,6 @@ Computer Science student building toward backend development, with a growing foc
 | Project | Description |
 |---|---|
 | 🧩 [Task Manager API](https://github.com/fatema-dev/task-manager-api) | RESTful task management API — Spring Boot, Spring Data JPA, layered architecture |
-| 🧠 [NeetCode Submission](https://github.com/fatema-dev/neetcode-submissions) | Ongoing algorithm practice, organized by pattern |
 
 
 ## 📫 Connect
