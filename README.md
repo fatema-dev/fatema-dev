@@ -1,6 +1,6 @@
 ## Hi! I'm Fatema
 
-I'm a third-year Computer Science student at the University of Strathclyde. I mostly build stuff with Java and JavaScript.
+I'm a third-year Computer Science student. I mostly build stuff with Java and JavaScript.
 I love the satisfaction of building a random app you thought of ten minutes ago 😂.
 
 ## Featured project
